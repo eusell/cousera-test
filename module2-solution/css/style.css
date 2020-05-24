@@ -40,19 +40,14 @@ body {
 		margin: 2%
 	}
 }
-@media (max-width: 767px){
+@media (min-width: 320px) and (max-width: 640px){
 	.section{
 		width: 95%;
 		margin-right: 0%;
 		margin-left: 2%;
 		float: left;
 	}
-	#sec-3{
-		clear: both;
-		width: 96%;
-		margin: 2%
-	}
-
+	
 }
 
 .section-title{
