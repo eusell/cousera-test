@@ -1,9 +1,6 @@
-html {
-    scroll-behavior: smooth;
-}
-/*Header Section */
+  /*Header Section */
 .navbar{
-    background-color: #999;
+    background-color: #990;
     border: 0;
     border-top: 2px solid #000;    
     border-bottom: 2px solid #000;
@@ -11,6 +8,7 @@ html {
 }
 .navbar-header>#brand-name {
     font-size: 2.5em;
+    font-family: tohoma;
     color: #000;
 }
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
@@ -26,7 +24,7 @@ html {
     border-top: 1px solid #000;
 }
 .container .navbar-collapse li a {
-    color: #000;
+    color: #f0f;
     font-size: 1.2em;
 }
 
