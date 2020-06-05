@@ -1,0 +1,15 @@
+[0605/150523.833:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: The operation completed successfully. (0x0)
+[0605/152238.045:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[0605/152238.053:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0605/153238.053:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0605/153238.053:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0605/153738.053:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0605/155302.809:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0605/170232.977:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[0605/170232.990:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0605/171232.990:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0605/171232.990:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0605/171733.038:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0605/173233.038:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0605/174733.041:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0605/180557.822:ERROR:crash_report_database_win.cc(428)] unexpected header
