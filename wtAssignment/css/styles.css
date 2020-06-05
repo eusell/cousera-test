@@ -50,6 +50,11 @@ ul li.active a{
     min-height: 100%;
 }
 
+.map{
+    text-decoration: none;
+    color: white;
+}
+
 .title{
     position: absolute;
     top: 30%;
@@ -206,3 +211,5 @@ footer{
     text-align:left;
     font-size: 12px 
 }
+
+
