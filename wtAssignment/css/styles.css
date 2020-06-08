@@ -50,10 +50,7 @@ ul li.active a{
     min-height: 100%;
 }
 
-.map{
-    text-decoration: none;
-    color: white;
-}
+
 
 .title{
     position: absolute;
@@ -68,6 +65,7 @@ ul li.active a{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 30px;
 }
+
 
 .title p{
     color: white;
